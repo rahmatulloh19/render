@@ -24,14 +24,14 @@
   ],
   "todo": [
     {
-      "todo": "Coding",
-      "desc": "Learn some new about coding",
-      "id": 3
-    },
-    {
       "todo": "Finish Portfolio site",
       "desc": "Finishing my own portfolio sites",
       "id": 4
+    },
+    {
+      "todo": "Add asyncronomus function",
+      "desc": "Added asyncronomus function to only get function and delete unneed action types, creators and reducer",
+      "id": 5
     }
   ]
 }
